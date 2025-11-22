@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Guess Phrase from Emojis";
+export const description = "Guess the phrase represented by a series of emojis.";
 export const url = process.env.NEXT_PUBLIC_URL;
